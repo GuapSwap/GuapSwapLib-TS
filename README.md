@@ -1,2 +1,2 @@
-# GuapSwapLib TS
+# guapswaplib-ts
 GuapSwapLib library written in TypeScript.
